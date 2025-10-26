@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // Default selection: Black frame, Mirrored Blue lens
     let currentColor = 'black'; 
     let currentLens = 'mirroredblue'; 
-    let currentPrice = 39.99; // Base price for sunglasses
+    let currentPrice = 45.99; // Base price for sunglasses
 
     // Helper function to update the main image
     function updateMainImage(imageSrc, imageAlt) {
